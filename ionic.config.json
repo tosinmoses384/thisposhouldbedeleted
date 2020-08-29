@@ -1,0 +1,7 @@
+{
+  "name": "dreeveIn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
